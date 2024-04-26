@@ -1,2 +1,2 @@
 # AULA15-1A-MARCIO
-Desenvolvimento com JavaScript em aula de Pensamento Computacional
+Aula de Pensamento de Computacional com JavaScript - p5.js Web Editor + Alura - Aula 16.
